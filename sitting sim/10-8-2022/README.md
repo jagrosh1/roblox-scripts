@@ -26,7 +26,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/jagrosh1/roblox-scrip
 ```
 
 ## Changelog
-* **Added Noclip for Orb Farm** - 10/10/22
+* **Added Noclip for Orb Farm** - *No more bumping into parts!* - 10/10/2022
 
 ## Final Notes [Disclaimer]
 You can get banned **(in-game; not Roblox)** & will most likely get banned from using these functions as people from the community will report you to the game developer. I highly suggest you keep it on the down-low, try staying away from high-ranked/high points-kills players & discord boosters/group members or users who claim they will report you!
