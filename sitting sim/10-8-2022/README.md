@@ -1,5 +1,5 @@
 # Sitting Simulator GUI
-Thank you for using this sitting simulator script, it's new and I will occasionally commit to the loader.lua file! If you experience any issues or would like to make a suggestion you can submit it **here** *or contact me* **via Discord.** Hope this script can help a lot, but please inflict no harm towards the game (literally killing the game, I'm joking btw). If you are the sitting sim owner & want to take this down I am most highly likely not to accept, you must provide a good reason like some negotiable payment!
+Thank you for using this sitting simulator script, it's new and I will occasionally commit to the loader.lua file! If you experience any issues or would like to make a suggestion you can submit it **here** *or contact me* **via Discord.** Hope this script can help a lot, if you are the game owner & try patching these I will unpatch it.
 
 **Discord - 1389#0157**
 
@@ -26,4 +26,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/jagrosh1/roblox-scrip
 ```
 
 ## Final Notes [Disclaimer]
-You can get banned & will most likely get banned from using these functions as people from the community will report you to the game developer. I highly suggest you keep it on the down-low, try staying away from high-ranked/high points-kills players & discord boosters/group members or users who claim they will report you!
+You can get banned **(in-game; not Roblox)** & will most likely get banned from using these functions as people from the community will report you to the game developer. I highly suggest you keep it on the down-low, try staying away from high-ranked/high points-kills players & discord boosters/group members or users who claim they will report you!
