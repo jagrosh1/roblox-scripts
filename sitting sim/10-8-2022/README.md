@@ -17,7 +17,7 @@ Thank you for using this sitting simulator script, it's new and I will occasiona
 ## UI Functions
 * **Draggability** - *Right-click on the mouse to drag the ui*
 * **Shutdown UI** - *Drag the UI to the bottom-right screen to cleanup the running code & UI*
-* 
+
 ## Script/Setup Initialization [Finally]
 Run this code in your executor & you will get the latest updated version of this project. **(You can put it in auto-execute!)**
 ```lua
