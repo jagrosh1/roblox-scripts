@@ -1,5 +1,5 @@
 # Sitting Simulator GUI
-Thank you for using this sitting simulator script, it's new and I will occasionally commit to the loader.lua file! If you experience any issues or would like to make a suggestion you can submit in issue **here** *or contact me* **via Discord.** Hope this script can help a lot, but please inflict no harm towards the game (literally killing the game, I'm joking btw). If you are the sitting sim owner & want to take this down I am most highly likely not to accept, you must provide a good reason like some negotiable payment!
+Thank you for using this sitting simulator script, it's new and I will occasionally commit to the loader.lua file! If you experience any issues or would like to make a suggestion you can submit it **here** *or contact me* **via Discord.** Hope this script can help a lot, but please inflict no harm towards the game (literally killing the game, I'm joking btw). If you are the sitting sim owner & want to take this down I am most highly likely not to accept, you must provide a good reason like some negotiable payment!
 
 **Discord - 1389#0157**
 
