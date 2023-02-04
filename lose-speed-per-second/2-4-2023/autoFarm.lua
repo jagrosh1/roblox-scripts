@@ -1,6 +1,6 @@
 -- Re-execute if broke!
 
-_G.autoFarm = true
+_G.autoWin = true
 _G.maxToleratedTime = 12 -- Keep above 12 or else you won't win
 
 if game.PlaceId == 12292508604 then
